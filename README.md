@@ -1,16 +1,19 @@
-## Hi there 👋
+# Diego Rodriguez
 
-<!--
-**diegordzffm/diegordzffm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physicist and IT Business Analyst with experience in application support,
+data processing, software testing, and technical troubleshooting.
 
-Here are some ideas to get you started:
+## Technical Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Agile workflows
+- Jira incident workflows
+- 1st and 2nd Level Support
+- Linux troubleshooting
+- Python, SQL, XML, JSON, CSV
+- Log analysis and system diagnostics
+
+## Practical Examples
+
+- [Support and Incident Workflow](https://github.com/diegordzffm/support-incident-workflow)
+- [Data Processing Examples](https://github.com/diegordzffm/data)
+- [Automation Projects](https://github.com/diegordzffm/automation_data_processing)
