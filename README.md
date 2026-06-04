@@ -15,5 +15,5 @@ data processing, software testing, technical troubleshooting and functional busi
 ## Practical Examples
 
 - [Support and Incident Workflow](https://github.com/diegordzffm/data/support-experience)
-- [Data Types Processing Examples](data-types)
+- [Data Types Processing Examples]([data-types](https://github.com/diegordzffm/data/tree/main/data-types))
 - [Automation Projects](https://github.com/diegordzffm/automation_data_processing)
