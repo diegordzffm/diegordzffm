@@ -8,7 +8,6 @@ data processing, software testing, technical troubleshooting and functional busi
 - Agile workflow
 - Jira incident workflow
 - Checklist for 1st and 2nd Level Support
-- Linux troubleshooting
 - Python, SQL, XML, JSON, CSV
 - Log analysis and system diagnostics
 
