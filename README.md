@@ -1,18 +1,21 @@
 # Diego Rodriguez
 
-Physicist and IT Business Analyst with experience in application support,
-data processing, software testing, technical troubleshooting and functional business analysis.
+Physicist and IT Business Analyst with experience in optical and electronic characterization of semiconductors, scientific instrumentation, experimental measurement systems and software-based data processing.
+
+My background combines physics, electronics, sensors, lasers, spectroscopy and calibration with application support, software testing, SQL analysis and technical troubleshooting across applications, interfaces, backend services and databases.
 
 ## Technical Areas
 
-- Agile workflow
-- Jira incident workflow
-- Checklist for 1st and 2nd Level Support
-- Python, SQL, XML, JSON, CSV
-- Log analysis and system diagnostics
-
+- Optical spectroscopy and semiconductor characterization
+- Scientific instrumentation, sensors, detectors and lasers
+- Experimental setup development, calibration and system diagnostics
+- System integration, functional testing and root-cause analysis
+- Application support and Jira incident workflows
+- Log analysis, monitoring data and configuration files
+- Python, SQL, MATLAB, XML, JSON and CSV
+- Technical documentation with Jira, Xray and Confluence
 ## Practical Examples
 
-- [Support and Incident Workflow](https://github.com/diegordzffm/data/support-experience)
+- [Building an Infrared Spectroscopy Setup for High-Pressure Measurements](https://github.com/diegordzffm/data/blob/main/Projekt-Uni-Stuttgart.pdf)
 - [Data Types Processing Examples](https://github.com/diegordzffm/data/tree/main/data-types)
 - [Automation Projects](https://github.com/diegordzffm/automation_data_processing)
